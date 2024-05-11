@@ -87,7 +87,7 @@ var database = [
         date: '2012-01-01', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'Andrew Jackson, Ben Dyson', //forfatter eller forfattere
         theme: ['Pengeskabelse', 'Pengereform', 'Finanskrise','Centralbanker','Pengepolitik', 'English' ], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
-        description: 'Modernising Money redegør for forfatternes løsning på finanskrisen. Løsningen, selvom den er vidtrækkende, behandles ikke som utopisk, men som et praktisk forslag: overgangen fra det nuværende pengesystem beskrives i detaljer. Forfatterne behandler spørgsmålet om, hvordan vi kan forbedre penge og banksystemet så det fungerer for befolkningen som helhed. Første udgivelse af Positive Money (Gode Penge i England), 
+        description: 'Modernising Money redegør for forfatternes løsning på finanskrisen. Løsningen, selvom den er vidtrækkende, behandles ikke som utopisk, men som et praktisk forslag: overgangen fra det nuværende pengesystem beskrives i detaljer. Forfatterne behandler spørgsmålet om, hvordan vi kan forbedre penge og banksystemet så det fungerer for befolkningen som helhed. Første udgivelse af Positive Money (Gode Penge i England)', 
         link: "hhttps://bibliotek.dk/materiale/modernising-money_andrew-jackson/work-of%3A800010-katalog%3A99122060680705763?type=bog", //link 
         image: "https://positivemoney.org/wp-content/uploads/2013/08/Modernising-Money-Cover-Web-300px-203x300.jpg", //link til billede
     },
